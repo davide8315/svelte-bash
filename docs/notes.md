@@ -5,3 +5,4 @@ Notes and usage details for svelte-bash.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- fix a small wording issue
