@@ -87,3 +87,4 @@ Notes and usage details for svelte-bash.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- link the usage section
